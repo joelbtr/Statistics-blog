@@ -5,7 +5,7 @@ This repository hosts my blog for the Statistics course, part of the Master’s 
 
 ## Structure 
 
-  - **Blog Posts**: Located in the _posts directory, each post is written in Markdown and follows the format YYYY-MM-DD-title.md. Posts are published using GitHub Pages and can be accessed at (https://jxel1.github.io/Statistics-blog/YYYY/MM/DD/Homework#.html).
+  - **Blog Posts**: Located in the _posts directory, each post is written in Markdown and follows the format YYYY-MM-DD-title.md. Posts are published using GitHub Pages and can be accessed at (https://joelbtr.github.io/Statistics-blog/YYYY/MM/DD/Homework#.html).
   
   - **Content**: Posts cover assigned topics, such as defining statistics, exploring its applications in cybersecurity, and analyzing datasets or case studies. Each post is structured with an introduction, detailed analysis, and conclusions.
 
@@ -13,7 +13,7 @@ This repository hosts my blog for the Statistics course, part of the Master’s 
 
 ## How to Navigate 
 
-- Visit the blog at (https://jxel1.github.io/Statistics-blog), scroll down to view all posts.
+- Visit the blog at (https://joelbtr.github.io/Statistics-blog), scroll down to view all posts.
 
 - Browse individual posts by date or topic using the site’s navigation or the _posts directory. - Check the commit history for updates and new posts added throughout the course.
 
